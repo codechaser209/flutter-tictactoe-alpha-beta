@@ -11,7 +11,11 @@ This is a simple implementation of the classic two player game, TikTakToe, using
 * Uses alpha-beta pruning to determine the best move for the player.
 
 ## Screenshots
+![Gameplay Screenshot](https://user-images.githubusercontent.com/97142240/219706984-3dc258ed-d8ca-4ba3-a66e-2ad1d1d300cb.png)
+![Suggestion Screenshot](https://user-images.githubusercontent.com/97142240/219707110-478d7e8d-6174-41a6-a120-bf116da1dbc5.png)
 
+![Winning Screenshot](https://user-images.githubusercontent.com/97142240/219707123-05ea86cb-b65e-4ee4-8048-01a2455bef49.png)
+![Tie Screenshot](https://user-images.githubusercontent.com/97142240/219707144-529ff157-ae08-4d65-97bb-f8ebaf2e1fbb.png)
 ## Usage
 To play the game, simply clone this repository to your local machine and run it in a Flutter environment. Ensure that you have flutter version 3.3.10 installed and configured on your machine.
 
